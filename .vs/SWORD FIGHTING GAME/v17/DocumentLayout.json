@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camer\\Documents\\sword-fighting-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6AFB45-A970-4818-B154-3ADC524B5100}|Sword Fighting Game.csproj|c:\\users\\camer\\documents\\sword-fighting-game\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6AFB45-A970-4818-B154-3ADC524B5100}|Sword Fighting Game.csproj|solutionrelative:warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6AFB45-A970-4818-B154-3ADC524B5100}|Sword Fighting Game.csproj|c:\\users\\camer\\documents\\sword-fighting-game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6AFB45-A970-4818-B154-3ADC524B5100}|Sword Fighting Game.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6AFB45-A970-4818-B154-3ADC524B5100}|Sword Fighting Game.csproj|c:\\users\\camer\\documents\\sword-fighting-game\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6AFB45-A970-4818-B154-3ADC524B5100}|Sword Fighting Game.csproj|solutionrelative:globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D6AFB45-A970-4818-B154-3ADC524B5100}|Sword Fighting Game.csproj|c:\\users\\camer\\documents\\sword-fighting-game\\beam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D6AFB45-A970-4818-B154-3ADC524B5100}|Sword Fighting Game.csproj|solutionrelative:beam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\camer\\Documents\\sword-fighting-game\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\camer\\Documents\\sword-fighting-game\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAowEcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:17:51.62Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Beam.cs",
+              "DocumentMoniker": "C:\\Users\\camer\\Documents\\sword-fighting-game\\Beam.cs",
+              "RelativeDocumentMoniker": "Beam.cs",
+              "ToolTip": "C:\\Users\\camer\\Documents\\sword-fighting-game\\Beam.cs",
+              "RelativeToolTip": "Beam.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:56:11.354Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\Users\\camer\\Documents\\sword-fighting-game\\Globals.cs",
+              "RelativeDocumentMoniker": "Globals.cs",
+              "ToolTip": "C:\\Users\\camer\\Documents\\sword-fighting-game\\Globals.cs",
+              "RelativeToolTip": "Globals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:17:44.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\camer\\Documents\\sword-fighting-game\\Warrior.cs",
+              "RelativeDocumentMoniker": "Warrior.cs",
+              "ToolTip": "C:\\Users\\camer\\Documents\\sword-fighting-game\\Warrior.cs",
+              "RelativeToolTip": "Warrior.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwJEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:29:14.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
